@@ -1,4 +1,0 @@
- Spetsian Maxim Ivanovich
- age: 27
- pets: null
- future salary 100000000000$
